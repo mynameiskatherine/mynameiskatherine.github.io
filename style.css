@@ -240,10 +240,6 @@ h4 {
   width: 60%;
 }
 
-.align-content-end {
-  align-content: ;
-}
-
 .border-left {
   border-left: 1px solid var(--light);
 }
